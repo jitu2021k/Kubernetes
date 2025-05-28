@@ -1,4 +1,4 @@
-﻿
+
 --Create Table
 CREATE TABLE public."Users"
 (
